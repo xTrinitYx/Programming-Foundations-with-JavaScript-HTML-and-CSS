@@ -1,0 +1,89 @@
+body {
+  background-color: gainsboro;
+}
+
+.divTop {
+  text-align: center;
+  font-family: "Monospace", Lucida Console;
+  /*border-top-style: solid;*/
+  border-bottom-style: solid;
+  border-color: darkGreen;
+  border-width: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+}
+
+.subHead {
+  font-family: "Open Sans";
+  font-size: 1.1em;
+}
+.headOne {
+  font-family: Verdana, sans-serif;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.mainList {
+  font-family: Verdana, sans-serif;
+  font-size: 0.9em;
+  background-color: #8fbc8f;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-right-style: solid;
+  padding: 5px 8px 5px 8px;
+  border-radius: 20px;
+}
+
+.pText {
+  font-family: Verdana;
+  text-align: center;
+}
+
+.imageDiv {
+  text-align: center;
+}
+
+.todoHead {
+  font-family: Verdana, sans-serif;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.todoDiv {
+  font-family: Verdana, sans-serif;
+  font-size: 0.9em;
+  background-color: DarkSeaGreen;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-right-style: solid;
+  padding: 5px 5px 5px 5px;
+  border-radius: 20px;
+}
+
+.foodHead {
+  font-family: Verdana, sans-serif;
+  font-size: 1.2em;
+  text-align: left;
+  padding-left: 10px;
+}
+
+.tFood {
+  background-color: DarkSeaGreen;
+  border: 2px solid;
+  border-radius: 10px;
+  padding: 20px 20px 20px 20px;
+  font-family: Verdana, sans-serif;
+  font-size: 0.9em;
+}
+.tFood th,
+td {
+  border: 1.5px solid;
+  text-align: center;
+}
+
+.end {
+  text-align: center;
+}
