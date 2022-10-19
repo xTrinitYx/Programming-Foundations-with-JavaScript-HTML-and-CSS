@@ -2,10 +2,10 @@
 ### Java Programming and Software Engineering Fundamentals Specialization : Course 1<br>
 Coursera, Duke University,<br> 
 Thank You Duke!<br>
-<p class="codepen" data-height="364" data-default-tab="html,result" data-slug-hash="LYdoGmp" data-user="xTrinitYx" style="height: 364px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/xTrinitYx/pen/LYdoGmp">
-  TO-DO List</a> by Anuroop Roy Choudhury (<a href="https://codepen.io/xTrinitYx">@xTrinitYx</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script><br>
+
+####Exercises:<br>
+1) <a href=https://codepen.io/xTrinitYx/pen/LYdoGmp>TO-DO List</a><br>
+2) <a href=https://codepen.io/xTrinitYx/pen/OJvYGeO>Interactive Paint Canvas</a><br>
+3) Green Screen Composite: https://codepen.io/xTrinitYx/pen/bGvPrNe <br>
+4) Image Filters: https://codepen.io/xTrinitYx/pen/ExEqmzP <br>
 
